@@ -1,2 +1,4 @@
 # EtwRegMon
 ETW Registry Monitor
+
+**UNFINISHED, BASIC TEXT LOG OF BASIC FUNCTIONS ONLY**
